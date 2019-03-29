@@ -4,6 +4,10 @@ Un pequeño repositorio donde aprenderemos un par de trucos para trabajar rápid
 
 También hay un par de extensiones bastante útiles que les pueden servir.
 
+# Atajos
+
+* [Windows] (chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+
 ## Extensiones
 
 * [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
