@@ -11,7 +11,7 @@
 */
 
 import { saludar } from './extra/funciones';
-
 const saludo = saludar( 'Thanos' );
 
 console.log(saludo);
+
